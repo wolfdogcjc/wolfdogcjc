@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wolfdogcjc
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and css
 - 📫 How to reach me wolfdogcjc@gmail.com
 
 <!---
