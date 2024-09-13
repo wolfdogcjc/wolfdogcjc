@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wolfdogcjc
-- 🌱 I’m currently studying Electrical Engineering
+- 🌱 I’m currently studying Electrical Engineering and Mathematics
 - 📫 Reach me at caleb@cjc24.com
 - 😎 Check out my website: cjc24.com
 
